@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="choose_country">Selecciona</string>
+</resources>
